@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Engineering @dd@</title>
+</head>
+<body>
+<h1>This for you guys!!</h1>
+<h2>for your enginerring related queries</h2>
+<p>This website helps you a lot about your engineering related queries , that you should take admission in engineering or not which branch of engineering is good for your delight future and which exam you should give and in which collefge you should take admission We'll give you answer what you want for us</p>
+<img src="s-a-engineering-college-thiruverkadu-chennai-engineering-colleges-31sxtk2.jpg"alt=""> <hr>
+<p>here is the information about how many engineering colleges in India.</p>
+<div>
+	<h1>There is the list of top 200 colleges of india</h1>
+	<ol>
+		<li>Indian Institute Of Technolog Bombay</li>
+		<li>Indian Institute Of Technology Madras</li>
+		<li>Indian Institute Of Technology Delhi</li>
+		<li>Indian Institute Of Technology Roorkee</li>
+		<li>Indian Institute Of Technology Kharagpur</li>
+		<li>Indian Institute Of Technology Guwhatai</li>
+		<li>Indian Institute Of Technology Kanpur</li>
+		<li>IIITH</li>
+		<li>IITBHU</li>
+		<li>IITI</li>
+		<li>IIT(ISM)</li>
+		<li>BITS</li>
+		<li>VIT</li>
+		<li>IIITA</li>
+		<li>JADAVPUR UNIVERSITY</li>
+		<li>DTU</li>
+		<li>NSIT</li>
+		<li>NIT-T</li>
+		<li>NIT-W</li>
+		<li>NIT-J</li>
+		<li>MNNIT-A</li>
+		<li>MNNIT-J</li>
+		<li>LNMIIT</li>
+		<li>MIT</li>
+		<li>ANNA UNIVERSITY</li>
+		<li>AMU</li>
+		<li>TIET</li>
+		<li>VNIT-S</li>
+		<li>IIST</li>
+		<li>IISER</li>
+		<li>IIIT-B</li>
+		<li>AMITY UNIVERSITY</li>
+	</ol>
+	<h2> <em>This is most usefull site where you can find a more colleges and actual data and some "extraa" info and get notifs</em> </h2>
+	<ul>
+	<li> <a href="https://aglasem.com/top-engineering-colleges-in-india/">Visit this site</a></li>
+	<li><a href="https://www.nirfindia.org/2020/EngineeringRanking.html">NIRF RANKING BY GOVERNMENT OF INDIA</a></li>
+	</ul>
+</div>
+<section>
+	<p>If you will ask me</p> <br>
+	<P>WHICH ONE IS FIRST ENGINEERING COLLEGE IN INDIA</P>
+	<h2>Ans:</h2>
+    <p>Thomason College
+       <h3>India's first engineering college, Thomason College, was established in 1847, with an aim to train Civil Engineer at Roorkee, Uttarakhand. By 1856, three colleges were opened, namely, the Indian Institute of Engineering Science and Technology, Shibpur, College of Engineering, Pune, and College of Engineering, Guindy.Apr 22, 2020</h3>
+    <table border="1" width="50%">
+       <tr>
+       		<td>Years</td>
+       		<td>College</td>
+       </tr>
+       <tr>
+        <td>2000</td>
+       	<td>IIT BOMBAY</td>
+       </tr>
+       <tr>
+       	<td>2001</td>
+       	<td>IIT DELHI</td>
+       </tr>
+       <tr>
+       	<td>2002</td>
+       	<td>IIT KANPUR</td>
+       </tr>
+       <tr>
+       	<td>2003</td>
+       	<td>IIT MADRAS</td>
+       </tr>
+        <tr>
+       	<td>2004</td>
+       	<td>IIT KANPUR</td>
+       </tr>
+        <tr>
+       	<td>2005</td>
+       	<td>IIT ROORKEE</td>
+       </tr>
+        <tr>
+       	<td>2006</td>
+       	<td>IISC BENGLURU</td>
+       </tr>
+        <tr>
+       	<td>2007</td>
+       	<td>IIT DELHI</td>
+       </tr>
+        <tr>
+       	<td>2008</td>
+       	<td>IIT BOMBAY</td>
+       </tr>
+        <tr>
+       	<td>2009</td>
+       	<td>IIT MADRAS</td>
+       </tr>
+        <tr>
+       	<td>2010</td>
+       	<td>IIT MADRAS</td>
+       </tr>
+        <tr>
+       	<td>2011</td>
+       	<td>IIT KANPUR</td>
+       </tr>
+        <tr>
+       	<td>2012</td>
+       	<td>IIT MADRAS</td>
+       </tr>
+        <tr>
+       	<td>2013</td>
+       	<td>IISC BENGLURU</td>
+       </tr>
+    </table>
+</section>
+<h3>Please enter your for getting notifs and be updated any engineering related news , wow!!</h3>
+	<form action="mailto:madhurendraakela123@gmail.com" method="post">
+	<fieldset>
+		<legend>Contact Details</legend>
+		<label for="name">Name:</label>
+		<input id="name"><br />
+
+		<label for="telephone">Telephone:</label>
+		<input id="telephone"><br />
+
+		<label for="email">Email:</label>
+	    <input id="email"><br />
+
+	    <label for="password">Password:</label>
+	    <input id="password"><br />
+	</fieldset>
+	<fieldset>
+		<legend>User Info</legend>
+        user name: <input type="text" name="username" /> <br />
+	    password: <input type="text" name="password" /> <br />
+		<input type="text" size="10" maxlength="5">
+	<input type="submit" name="Submit Now"/>
+	</form>
+
+</body>
+</html>
